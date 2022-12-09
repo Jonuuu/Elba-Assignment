@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# selenium-webdriver.log file
+selenium-webdriver.log
